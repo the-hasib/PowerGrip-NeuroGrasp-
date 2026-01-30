@@ -41,7 +41,12 @@ Since this is an ongoing project, here is what we plan to add next:
 - [ ] machine Learning model for better EMG signal classification.
 
 ## Work In Progress Gallery
-**COMING SOON**
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/2a8a1b39-e16c-42a3-b52c-df73d8334b1c" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/6ccdda93-ad98-496a-9165-43fe082df244" width="300" height="300" />
+</p>
+
+
 ## Contributors
 This project is developeing for the **Electronics Lab (CSE 124/EEE 2124)** at **United International University**.
 * **SM Hasibur Rahman**
@@ -50,9 +55,9 @@ This project is developeing for the **Electronics Lab (CSE 124/EEE 2124)** at **
 * **Arif Ashab Akib**
 * **Mir Adnan**
   
-### Supervised By
-**Taki Yashir Sir**
-Lecturer, Department of CSE, UIU.
+## Supervised By
+**Taki Yashir Sir** 
+- Lecturer, Department of CSE, UIU. 
 
 ---
 **⚠️ Note: This repository is updated frequently.**
